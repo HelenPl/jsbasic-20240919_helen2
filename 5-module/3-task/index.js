@@ -41,7 +41,3 @@ function initCarousel() {
       });  
     }
 }
-
-
-  // ваш код...
-}
